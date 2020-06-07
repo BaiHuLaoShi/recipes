@@ -2,4 +2,4 @@
 Recipes
 =======
 
-External hyperlinks, like `Python <http://www.python.org/>`_.
+`Python <./rst/irish_stew.rst/>`_.
