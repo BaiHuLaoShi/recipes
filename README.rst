@@ -2,5 +2,4 @@
 Recipes
 =======
 
-
-:doc:`./recipes/rst/irish_stew.rst`
+.. _relative link: /rst/irish_stew.rst
