@@ -2,6 +2,8 @@
 Recipes
 =======
 
+.. contents:: Table of Contents
+
 Beef
 ====
 
