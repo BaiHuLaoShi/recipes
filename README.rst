@@ -16,9 +16,9 @@ Fish
 
 Soup/Stew
 =========
-`Six can chicken tortilla soup <./rst/six_can_chicken_tortilla_soup/>`_
-`Ham bone soup <./rst/ham_bone_soup.rst/>`_
-`Irish Stew <./rst/irish_stew.rst/>`_
+- `Six can chicken tortilla soup <./rst/six_can_chicken_tortilla_soup/>`_
+- `Ham bone soup <./rst/ham_bone_soup.rst/>`_
+- `Irish Stew <./rst/irish_stew.rst/>`_
 
 Veggies
 =======
