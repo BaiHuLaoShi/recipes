@@ -2,4 +2,4 @@
 Recipes
 =======
 
-`Python <./rst/irish_stew.rst/>`_.
+`Irish Stew <./rst/irish_stew.rst/>`_.
