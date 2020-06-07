@@ -3,4 +3,4 @@ Recipes
 =======
 
 
-:doc:`rst/irish_stew.rst`
+:doc:`../rst/irish_stew.rst`
