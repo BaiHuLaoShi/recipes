@@ -22,13 +22,13 @@ Soup/Stew
 
 Veggies
 =======
-`Cast-iron blisterd brussels sprouts <./rst/cast-iron_blisterd_brussels_sprouts/>`_
-`Simple red mashed potatos <./rst/simple_red_mashed_potatos.rst/>`_
-`Potatos for sweedish meatballs <./rst/potatos_for_sweedish_meatballs.rst/>`_
+- `Cast-iron blisterd brussels sprouts <./rst/cast-iron_blisterd_brussels_sprouts/>`_
+- `Simple red mashed potatos <./rst/simple_red_mashed_potatos.rst/>`_
+- `Potatos for sweedish meatballs <./rst/potatos_for_sweedish_meatballs.rst/>`_
 
 Snacks
 ======
-`Seasoned saltine crackers <./rst/seasoned_saltine_crackers.rst/>`_
+- `Seasoned saltine crackers <./rst/seasoned_saltine_crackers.rst/>`_
 
 Dessert
 =======
