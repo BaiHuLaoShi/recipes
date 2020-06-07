@@ -1,8 +1,9 @@
 =======
 Recipes
 =======
-
+.. raw:: pdf
 .. contents:: Table of Contents
+.. raw:: pdf
 
 Beef
 ====
